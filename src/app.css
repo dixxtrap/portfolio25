@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body{
+  padding: auto;
+}
+.rs.icon{
+  @apply size-8  stroke-white ;
+}
